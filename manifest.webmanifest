@@ -1,6 +1,6 @@
 {
-  "name": "Reader",
-  "short_name": "Reader",
+  "name": "灯下",
+  "short_name": "灯下",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
